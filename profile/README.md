@@ -1,28 +1,26 @@
-# 🦠 Algae Tools
+# 🌱 algae tools
 
-Open-source game art tools for engines and DCC's, created by Aden. A collection of small, focused utilities for engines and DCCs.
+hello, welcome. 
 
----
+i'm aden, a university student currently studying to become a technical artist.
 
-## 📦 Tools  
+algae tools is an open-source collection of game art tools for engines and DCC's, created by me. 
+
+these tools are free for use by the public, i hope you find them useful
+
+## tools  
 - [Algae Roof Tiler](link) – procedural roof generation  
 - [Algae Vertex Painter](link) – quick vertex painting workflow  
 - [Algae Water Shader](link) – stylized water material  
 
 *(more coming soon – WIP lives in [techart-tools](https://github.com/aden-tt/techart-tools))*  
 
----
-
-## 🚀 How to use  
+## how to use  
 Each tool has its own repo with install instructions, screenshots, and examples.  
 Pick what you need, download, and plug it into your engine/DCC.  
 
----
-
-## 🤝 Contributing  
+## contributing  
 Bug reports, ideas, and pull requests are welcome.  
 
----
-
-## 📜 License  
+---  
 Unless otherwise noted, all tools are released under the MIT license.  
