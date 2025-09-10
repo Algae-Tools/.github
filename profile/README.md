@@ -1,10 +1,10 @@
-# 🌱 algae's game art toolkit
+# 🌱 algae's game art tools
 
 hello, welcome. 
 
 i'm aden `aka algae`, a university student currently studying to become a technical artist.
 
-algae's game art toolkit is an collection of open-source game art tools for engines and DCC's, created by me. 
+algae's game art tools are a collection of open-source game art tools for engines and DCC's, created by me. 
 
 these tools are free for use by the public, i hope you find them useful.
 
