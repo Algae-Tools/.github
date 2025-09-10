@@ -2,7 +2,7 @@
 
 hello, welcome. 
 
-i'm aden (aka `algae`), a university student currently studying to become a technical artist.
+i'm aden `aka algae`, a university student currently studying to become a technical artist.
 
 algae's game art toolkit is an collection of open-source game art tools for engines and DCC's, created by me. 
 
