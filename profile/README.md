@@ -13,7 +13,7 @@ these tools are free for use by the public, i hope you find them useful.
 - [Algae's Vertex Painter](link) – quick vertex painting workflow  
 - [Algae's Water Shader](link) – stylized water material  
 
-*(more coming soon – WIPs live in [techart-tools](https://github.com/aden-tt/techart-tools))*  
+*(more coming soon – WIPs live in my personal repo [tech-art-tools](https://github.com/aden-tt/tech-art-tools))*  
 
 ## how to use  
 Each tool has its own repo with install instructions, screenshots, and examples.  
