@@ -6,7 +6,7 @@ i'm aden (aka algae), a university student currently studying to become a techni
 
 algae tools is an open-source collection of game art tools for engines and DCC's, created by me. 
 
-these tools are free for use by the public, i hope you find them useful
+these tools are free for use by the public, i hope you find them useful.
 
 ## tools  
 - [Algae's Roof Tiler](link) – procedural roof generation  
