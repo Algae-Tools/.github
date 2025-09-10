@@ -22,5 +22,5 @@ Pick what you need, download, and plug it into your engine/DCC.
 ## contributing  
 Bug reports, ideas, and pull requests are welcome.  
 
----  
+## license  
 Unless otherwise noted, all tools are released under the MIT license.  
