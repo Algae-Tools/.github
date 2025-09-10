@@ -1,14 +1,14 @@
-# 🌱 algae tools
+# 🌱 algae's game art toolkit
 
 hello, welcome. 
 
 i'm aden (aka `algae`), a university student currently studying to become a technical artist.
 
-algae tools is an open-source collection of game art tools for engines and DCC's, created by me. 
+algae's game art toolkit is an collection of open-source game art tools for engines and DCC's, created by me. 
 
 these tools are free for use by the public, i hope you find them useful.
 
-## tools  
+## available tools  
 - [Algae's Roof Tiler](link) – procedural roof generation  
 - [Algae's Vertex Painter](link) – quick vertex painting workflow  
 - [Algae's Water Shader](link) – stylized water material  
