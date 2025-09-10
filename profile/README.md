@@ -10,7 +10,7 @@ these tools are free for use by the public, i hope you find them useful.
 
 ## available tools  
 - [Algae's Roof Tiler](link) – procedural roof generation  
-- [Algae's Vertex Painter](link) – quick vertex painting workflow  
+- [Algae's Unity FBX Quick Importer](link) – automatically connects models w/ texture maps when importing
 - [Algae's Water Shader](link) – stylized water material  
 
 *(more coming soon – WIPs live in my personal repo [tech-art-tools](https://github.com/aden-tt/tech-art-tools))*  
